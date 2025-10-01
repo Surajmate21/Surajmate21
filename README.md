@@ -7,7 +7,7 @@
 - 🎓 B.Tech in Computer Science & Certified Data Scientist from Masai  
 - 💡 Enthusiastic about **Deep Learning, NLP, Machine Learning, and Statistics**  
 - 🌱 Currently exploring **Advanced Python, and Data-driven problem solving**  
-- 🔭 Looking for opportunities in **Data Science / Machine Learning / AI / Data Analytics**
+- 🔭 Looking for opportunities in **Data Science / Machine Learning / Data Analytics**
 
 ---
 
