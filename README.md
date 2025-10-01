@@ -1,4 +1,4 @@
-d<h1 align="center">Hi 👋, I'm Suraj</h1>
+<h1 align="center">Hi 👋, I'm Suraj</h1>
 <h3 align="center">B.Tech CSE | Certified Data Scientist (Masai) | Passionate about Data Analytics, Machine Learning & AI</h3>
 
 ---
