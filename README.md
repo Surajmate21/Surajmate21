@@ -31,8 +31,6 @@
 ---
 ### 🚀 Projects
 
----
-
 ### ✈️ Price & Pattern Analysis of Indian Airlines
 📅 **Jan 2025 – Feb 2025**  
 🔗 [Project Link](https://github.com/Surajmate21/Indian-Airlines-Ticket-Price)  
