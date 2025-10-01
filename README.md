@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suraj</h1>
+d<h1 align="center">Hi 👋, I'm Suraj</h1>
 <h3 align="center">B.Tech CSE | Certified Data Scientist (Masai) | Passionate about Data Analytics, Machine Learning & AI</h3>
 
 ---
@@ -100,7 +100,7 @@
 
 <p align="center">
   🔗 Let's Connect:  
-  <a href="https://www.linkedin.com/in/suraj-data-analyst">
+  <a href="(https://www.linkedin.com/in/suraj-mate12/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Surajmate21">
