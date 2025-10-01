@@ -29,12 +29,64 @@
 
 
 ---
-
 ### 🚀 Projects
-- ✈️ [Flight Price Analysis](https://github.com/Surajmate21/Indian-Airlines-Ticket-Price) 
-- 🛒 [BigBasket Price Insights](https://github.com/Surajmate21/Big-basket-analysis-)  
-- ❤️ [Heart Disease Prediction](https://github.com/AkashKushwahait7/build-weak-4) 
+
 ---
+
+### ✈️ Price & Pattern Analysis of Indian Airlines
+📅 **Jan 2025 – Feb 2025**  
+🔗 [Project Link](https://github.com/Surajmate21/Indian-Airlines-Ticket-Price)  
+
+**Technologies:**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Statistics-008080?style=for-the-badge&logo=gnuplot&logoColor=white"/>
+<img src="https://img.shields.io/badge/EDA-FF6F00?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+
+**Description:**  
+- Analyzed Indian airline pricing data using SQL & Python (Pandas, Seaborn, Matplotlib).  
+- Uncovered price trends, route frequency, and airline rankings.  
+- Detected outliers, correlation between duration & price (+0.29), and pricing differences across economy vs. business class.  
+- Developed interactive Power BI dashboards to visualize key metrics (peak order timings, dark store performance).  
+- Enabled data-driven business decisions and operational improvements.
+
+---
+
+### 🛒 BigBasket Analysis
+📅 **Mar 2025 – Apr 2025**  
+🔗 [Project Link](https://github.com/Surajmate21/Big-basket-analysis-)  
+
+**Technologies:**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/EDA-FF6F00?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+
+**Description:**  
+- Analyzed product-level data across multiple categories (vegetables, dairy, beverages, packaged goods).  
+- Uncovered pricing trends, demand patterns, and competitor benchmarks.  
+- Applied SQL & Python (Pandas, Matplotlib, Seaborn) for data cleaning, EDA, and visualization.  
+- Performed statistical analysis for volatility and outlier detection.  
+- Delivered insights for price optimization, targeted promotions, and competitive benchmarking.
+
+---
+
+### ❤️ Heart Disease Data Analysis & Insights
+📅 **Jun 2025 – Jul 2025**  
+🔗 [Project Link](https://github.com/AkashKushwahait7/build-weak-4)  
+
+**Technologies:**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/EDA-FF6F00?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+
+**Description:**  
+- Cleaned and preprocessed heart disease dataset using Pandas & NumPy.  
+- Handled missing values and corrected data types.  
+- Performed EDA with Matplotlib & Seaborn to identify demographic patterns, correlations (age, cholesterol, chest pain), and key risk factors.  
+- Applied statistical analysis (Chi-Square tests) to determine significant predictors of heart disease.  
+- Generated actionable insights for healthcare decisions.
 
 
 ⭐️ From [Suraj](https://github.com/Surajmate21)
